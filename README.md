@@ -9,6 +9,12 @@ This project is a **C program** that reads a polynomial equation from an input f
 - **Perform addition, subtraction, and multiplication on polynomial equations**
 - **Substitute a given value for `x` in the final polynomial equation**
 
+
+## Format for Input Equations
+
+The input file should contain polynomial equations in the following format:
+![Program Menu](Run_Menu.png)
+
 ## Program Menu
 
 ![Program Menu](Run_Menu.png)
