@@ -9,3 +9,6 @@ This project is a **C program** that reads a polynomial equation from an input f
 - **Perform addition, subtraction, and multiplication on polynomial equations**
 - **Substitute a given value for `x` in the final polynomial equation**
 
+## Program Menu
+
+![Program Menu](Run_Menu.png)
