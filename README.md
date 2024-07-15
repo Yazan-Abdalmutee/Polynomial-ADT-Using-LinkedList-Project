@@ -13,7 +13,7 @@ This project is a **C program** that reads a polynomial equation from an input f
 ## Format for Input Equations
 
 The input file should contain polynomial equations in the following format:
-![Program Menu](Run_Menu.png)
+![Program Menu](input_format.png)
 
 ## Program Menu
 
